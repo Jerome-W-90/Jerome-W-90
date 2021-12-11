@@ -4,7 +4,7 @@
 <h3 align="left">Follow-me:</h3>
 <p align="left">
 <a href="https://codepen.io/jerome-w-90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerome-w-90" height="35" width="35" /></a>
-<a href="https://dev.to/jeromew90" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="jeromew90" height="40" width="40" /></a>
+<a href="https://dev.to/jeromew90" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="jeromew90" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/jérômew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jérômew" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13228383/jérôme-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13228383/jérôme-w" height="30" width="40" /></a>
 <a href="https://www.malt.fr/profile/jeromeweber" target="blank"><img align="center" src="https://www.lafabriquedunet.fr/wp-content/uploads/2020/04/malt.png" alt="13228383/jérôme-w" height="30" width="30" /></a>
