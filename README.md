@@ -9,7 +9,7 @@
 <a href="https://stackoverflow.com/users/13228383/jérôme-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13228383/jérôme-w" height="30" width="40" /></a>
 <a href="https://www.malt.fr/profile/jeromeweber" target="blank"><img align="center" src="https://www.lafabriquedunet.fr/wp-content/uploads/2020/04/malt.png" alt="13228383/jérôme-w" height="30" width="30" /></a>
 <a href="https://www.thiscodeworks.com/user/jeromew" target="blank"><img align="center" src="https://www.thiscodeworks.com/images/ghost-scary.png" alt="13228383/jérôme-w" height="40" width="40" /></a>
-<a href="https://www.codegrepper.com/app/profile.php?id=299149" target="blank"><img align="center" src="https://www.codegrepper.com/images/logo_colors_small.png" alt="13228383/jérôme-w" height="30" width="30" /></a>
+<a href="https://www.codegrepper.com/app/profile.php?id=299149" target="blank"><img align="center" src="https://www.zupimages.net/up/22/30/dht9.png" alt="13228383/jérôme-w" height="30" width="30" /></a>
 <a href="https://app.daily.dev/JeromeW" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KCRN0Wuf--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/356/ceb8dc0f-a77b-4f89-84da-52216a4286e1.png" alt="13228383/jérôme-w" height="40" width="40" /></a>
   
 </p>
