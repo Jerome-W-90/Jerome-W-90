@@ -34,4 +34,6 @@
 <li><a href="https://dev.to/jeromew90/how-to-create-a-multilingual-project-in-laravel-internationalization-i18n-11ol" rel="nofollow">How to create a multilingual project in Laravel 8 (i18n)</a></li>
 <li><a href="https://dev.to/jeromew90/how-use-sweetalert2-in-laravel-8-using-composer-jki" rel="nofollow">How to use SweetAlert2 in Laravel 8 using Composer</a></li>
 <li><a href="https://dev.to/jeromew90/how-to-start-laravel-project-with-the-shortcut-sail-up-using-bashrc-31dl" rel="nofollow">How to start Laravel project with "sail up" instead of "./vendor/bin/sail up"</a></li>
+<li><a href="https://dev.to/jeromew90/using-chatgpt-in-a-laravel-10-project-ng8" rel="nofollow">Using ChatGPT in a Laravel 10 project
+</a></li>
 </ul>
