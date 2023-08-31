@@ -24,9 +24,8 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://styles.redditmedia.com/t5_2t6ic/styles/communityIcon_ganjf24sw3f51.jpg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://res.cloudinary.com/proxify-io/image/upload/v1/cms/images/skills/tMAETyDAqTvkVw2xNNhRpN8VtOHt1gZXa4BAwLFt.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <a href="https://symfony.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">My tutorials on dev.to:</h3>
