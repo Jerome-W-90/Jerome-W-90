@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jérôme</h1>
-<h3 align="center">Fullstack web developer passionate by Laravel ❤️</h3>
+<h3 align="center">Founder of Digital Touch & Fullstack web developer passionate about Laravel ❤️</h3>
+
+<h3 align="left">My agency:</h3>
+<p align="left">
+<a href="https://digital-touch.tech" target="blank"><img align="center" src="https://digital-touch.tech/images/logo-dark.png" alt="digital-touch" height="50" width="200" /> https://digital-touch.tech</a> 
+  
+</p>
 
 <h3 align="left">Follow-me:</h3>
 <p align="left">
