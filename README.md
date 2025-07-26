@@ -3,7 +3,7 @@
 
 <h3 align="left">My agency:</h3>
 <p align="left">
-<a href="https://digital-touch.tech?from=github" target="blank"><img align="center" src="https://digital-touch.tech/images/logo-dark.png" alt="digital-touch" height="50" width="200" /> https://digital-touch.tech</a> 
+<a href="https://digital-touch.tech?utm_source=github" target="blank"><img align="center" src="https://digital-touch.tech/images/logo-dark.png" alt="digital-touch" height="50" width="200" /> https://digital-touch.tech</a> 
   
 </p>
 
